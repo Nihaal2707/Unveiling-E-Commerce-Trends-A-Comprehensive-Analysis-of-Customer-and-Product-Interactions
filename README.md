@@ -6,7 +6,7 @@ This Group project involves a detailed analysis of an e-commerce dataset to unco
 
 We would like to express our gratitude to the following individuals and sources for their contributions to this project:
 
-**Prof. Ashok K Harnal:** We are thankful for the guidance and support provided by you, your expertise has been invaluable in shaping this project.
+We are thankful for the guidance and support provided by Prof. Ashok K Harnal, his expertise has been invaluable in shaping this project.
 
 **Praneeth Kumar:** We would like to acknowledge the work of Praneeth, whose repository (https://www.kaggle.com/praneethkumar007) served as a valuable reference for understanding and implementing this project.
 
