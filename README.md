@@ -10,7 +10,20 @@ We are thankful for the guidance and support provided by Prof. Ashok K Harnal, h
 
 **Praneeth Kumar:** We would like to acknowledge the work of Praneeth, whose repository (https://www.kaggle.com/praneethkumar007) served as a valuable reference for understanding and implementing this project.
 
-**Data Source:** https://www.kaggle.com/datasets/praneethkumar007/dmart-ready-online-store
+**Data Source:** https://www.kaggle.com/datasets/praneethkumar007/dmart-ready-online-store.
+
+**Objectives**
+
+● Predict Order Cancellations: Achieve accurate predictions to manage and reduce
+cancellations.
+● Classify Product Categories: Improve the categorization of products based on
+available data.
+● Forecast Total Order Value: Predict order values to support demand forecasting.
+● Predict Payment Methods: Identify customer payment preferences.
+● Estimate Delivery Times: Predict delivery times to optimize logistics.
+● Analyze Subscription Patterns: Predict subscription likelihood to boost rates.
+● Forecast Sales Trends: Project future sales for strategic planning.
+● Assess Discount Impact: Understand how discounts affect sales volumes.
 
 
 
