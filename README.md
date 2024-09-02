@@ -14,25 +14,22 @@ We are thankful for the guidance and support provided by Prof. Ashok K Harnal, h
 
 **Objectives**
 
-● Predict Order Cancellations: Achieve accurate predictions to manage and reduce
-cancellations.
+1. Analyze how demographics and payment methods influence spending and order
+values.
 
-● Classify Product Categories: Improve the categorization of products based on
-available data.
+2. To assess how product types and pricing strategies affect customer engagement and
+purchases.
 
-● Forecast Total Order Value: Predict order values to support demand forecasting.
+3. To examine how order statuses vary across customer segments, including gender
+and subscription levels.
 
-● Predict Payment Methods: Identify customer payment preferences.
+4. To explore how website interaction influences order value and engagement.
 
-● Estimate Delivery Times: Predict delivery times to optimize logistics.
+5. To determine how payment methods affect order completion, cancellations, and
+returns.
 
-● Analyze Subscription Patterns: Predict subscription likelihood to boost rates.
-
-● Forecast Sales Trends: Project future sales for strategic planning.
-
-● Assess Discount Impact: Understand how discounts affect sales volumes.
-
-
+6. To analyze shipping preferences by subscription levels and their impact on
+satisfaction and order completion.
 
 
 **Project Group Members:-**
